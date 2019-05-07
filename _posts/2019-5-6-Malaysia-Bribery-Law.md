@@ -11,7 +11,9 @@ Malaysia’s Bribery Law Got a Makeover in 2018. This change came after Parliame
 The relevant authority in charge of the MACCA is the Malaysian Anti-Corruption Commission (MACC). The MACCA applies to both the private sector and to public bodies / officers of a public body. The MACCA does not make a distinction between private sector bribery and bribery of public officials.
 Since its election victory, the new Malaysian government under the leadership of Dr Mahathir Mohamad has continued to aggressively pursue its anti-corruption agenda through the establishment of the Special Cabinet Committee on Anti-Corruption (JKKMAR) and the Governance, Integrity and Anti-Corruption Centre (GIACC); the formulation of the National Anti-Corruption Plan; and the reopening of investigations into the 1MDB scandal, which have recently led to criminal charges being brought against former Prime Minister Najib Razak. By 2030, Malaysia aims to be one of the top 10 cleanest nations in the world. 
 Malaysian Parliament has adopted features of the UK Bribery Act into the MACC Act.
+
 1. Offence of the Associated Person
+
 The new section provides that a commercial organization commits an offence if an associated person engages in corruption in order to obtain or retain business or an advantage for the organization.
 
 The new section not only establishes a new statutory corporate liability offence of corruption by a commercial organisation, but also deems any director, controller, officer, manager or partner to be personally liable for the same offence unless the relevant individual can prove that the offence was committed without their consent and that they had exercised the requisite due diligence to prevent the commission of the offence.
