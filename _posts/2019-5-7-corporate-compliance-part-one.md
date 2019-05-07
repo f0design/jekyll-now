@@ -5,6 +5,8 @@ published: true
 
 ![](https://readycomply.com/assets/images/image04.jpg?v78838073127551)
 
+<!-- more -->
+
 Part of I of the guidance discusses:
 
 1. Risk-assessment
