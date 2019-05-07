@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Things to know about PART I of III: Evaluation of Corporate Compliance Programs by the Criminal Division’s Fraud 
 
