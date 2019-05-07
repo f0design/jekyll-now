@@ -30,4 +30,4 @@ Adequate procedures are pivotal as a defense – as a corporation is guilty unle
 
 Commercial organisations and management will need to step up monitoring of its associated persons for corrupt practices. Seeker ™ runs these checks swiftly in a flexible manner - the frequency of checks can be customized, including reminders closer to contract expiration date, to review and renew due diligence checks. 
 Gifts, entertainment, contracts with no Anti-bribery corruption clauses need to be revisited as these are funnels for facilitating bribes. ReadyComply provides services to help raise awareness, create engaging impactful training to help allow the organisation to avoid liability.
-Should you want a brochure of our offering please contact service@readycomply.com
+Should you want a brochure of our offering please contact [service@readycomply.com](mailto:service@readycomply.com)
