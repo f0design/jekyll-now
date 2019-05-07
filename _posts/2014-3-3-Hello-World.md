@@ -3,6 +3,8 @@ layout: post
 title: Things to Know About Malaysia’s Bribery Law Re-haul and what to do next
 published: true
 ---
+![makarios-tang-561612-unsplash.jpg]({{site.baseurl}}/_posts/makarios-tang-561612-unsplash.jpg)
+
 Malaysia’s Bribery Law Got a Makeover in 2018. This change came after Parliament passed a bill in April 2018 to amend the Malaysian Anti-Corruption Commission (MACC) Act 2009, crucially with the insertion of Section 17A. 
 The relevant authority in charge of the MACCA is the Malaysian Anti-Corruption Commission (MACC). The MACCA applies to both the private sector and to public bodies / officers of a public body. The MACCA does not make a distinction between private sector bribery and bribery of public officials.
 Since its election victory, the new Malaysian government under the leadership of Dr Mahathir Mohamad has continued to aggressively pursue its anti-corruption agenda through the establishment of the Special Cabinet Committee on Anti-Corruption (JKKMAR) and the Governance, Integrity and Anti-Corruption Centre (GIACC); the formulation of the National Anti-Corruption Plan; and the reopening of investigations into the 1MDB scandal, which have recently led to criminal charges being brought against former Prime Minister Najib Razak. By 2030, Malaysia aims to be one of the top 10 cleanest nations in the world. 
