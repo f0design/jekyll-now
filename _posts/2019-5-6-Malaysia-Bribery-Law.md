@@ -3,6 +3,8 @@ layout: post
 title: Things to Know About Malaysia’s Bribery Law Re-haul and what to do next
 published: true
 ---
+<!-- more -->
+
 ![malaysia-road-photo](https://readycomply.com/assets/images/image02.jpg?v12283249917551)
 
 Malaysia’s Bribery Law Got a Makeover in 2018. This change came after Parliament passed a bill in April 2018 to amend the Malaysian Anti-Corruption Commission (MACC) Act 2009, crucially with the insertion of Section 17A. 
