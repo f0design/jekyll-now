@@ -4,7 +4,9 @@ published: false
 ## Things to know about PART I of III: Evaluation of Corporate Compliance Programs by the Criminal Division’s Fraud 
 
 “Effective compliance programs play a critical role in preventing misconduct, facilitating investigations, and informing fair resolutions”, Assistant Attorney General Brian A. Benczkowski said. 
+
 Part of I of the guidance discusses:
+
 1. Risk-assessment
 Prosecutors may credit the quality and effectiveness of a risk-based compliance program that devotes appropriate attention and resources to high-risk transactions, even if it fails to prevent an infraction in a low-risk area. 
 Thus, revisions to corporate compliance programs considering lessons learned, is an important metric to be considered while designing your risk-based compliance programme.
