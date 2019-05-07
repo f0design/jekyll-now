@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# Things to know about PART I of III: Evaluation of Corporate Compliance Programs by the Criminal Division’s Fraud 
-
 “Effective compliance programs play a critical role in preventing misconduct, facilitating investigations, and informing fair resolutions”, Assistant Attorney General Brian A. Benczkowski said. 
 
 ![](https://readycomply.com/assets/images/image04.jpg?v78838073127551)
