@@ -3,7 +3,6 @@ layout: post
 title: Things to Know About Malaysia’s Bribery Law Re-haul and what to do next
 published: true
 ---
-<!-- more -->
 
 ![malaysia-road-photo](https://readycomply.com/assets/images/image02.jpg?v12283249917551)
 
